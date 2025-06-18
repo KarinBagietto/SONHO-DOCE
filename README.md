@@ -8,5 +8,5 @@
 📌 Projeto desenvolvido com foco em práticas de MVC, rotas, views dinâmicas e sessões.
 🙏 Agradecimentos à professora Eulaliane Gonçalves pela orientação.</p>
 
-<img src="Imagem do WhatsApp de 2025-06-18 à(s) 20.23.50_3eb03a9a">
+<img src="Imagem do WhatsApp de 2025-06-18 à(s) 20.23.50_e7f0e395.jpg">
 <img src="Imagem do WhatsApp de 2025-06-18 à(s) 20.23.50_e7f0e395">
